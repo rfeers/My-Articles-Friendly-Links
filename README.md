@@ -1,4 +1,6 @@
-# **KDnuggets Articles With Code** 📝
+# **KDnuggets Articles** 📝
+
+## **With Code** 👨🏻‍💻
 
 | Title              | Article Link                     |  Code                      |
 |----------------------|------------------------------------------------------|------------------------------------------------------|
@@ -8,13 +10,11 @@
 | A Simple to Implement End-to-End Project with HuggingFace | [Link](https://www.kdnuggets.com/a-simple-to-implement-end-to-end-project-with-huggingface)                      | [Code](https://github.com/rfeers/My-Articles-Friendly-Links/tree/main/data-engineering/Docker-beginner-guide)|
 | Using Pandas and SQL Together for Data Analysis | [Link](https://www.kdnuggets.com/using-pandas-and-sql-together-for-data-analysis)                      | - |
 
-
-
-# **KDnuggets Articles Without Code** 📝
-
+## **Without Code** 📚
 | Title              | Article Link                     |
-| Building Multilingual Applications with Hugging Face Transformers | [Link](https://www.kdnuggets.com/building-multilingual-applications-hugging-face-transformers)                      |
-| Building an Automatic Speech Recognition System with PyTorch & Hugging Face | [Link](https://www.kdnuggets.com/building-an-automatic-speech-recognition-system-with-pytorch-hugging-face)                      |
+|--------------------|--------------------------------|
+| Building Multilingual Applications with Hugging Face Transformers | [Link](https://www.kdnuggets.com/building-multilingual-applications-hugging-face-transformers) |
+| Building an Automatic Speech Recognition System with PyTorch & Hugging Face | [Link](https://www.kdnuggets.com/building-an-automatic-speech-recognition-system-with-pytorch-hugging-face) |
 | 10 Little-Known Python Libraries That Will Make You Feel Like a Data Wizard | [Link](https://www.kdnuggets.com/10-little-known-python-libraries-data-wizard)                      |
 | Top 5 Free Machine Learning Courses to Level Up Your Skills | [Link](https://www.kdnuggets.com/top-5-free-machine-learning-courses-to-level-up-your-skills)                      |
 | Optimizing Your LLM for Performance and Scalability | [Link](https://www.kdnuggets.com/optimizing-your-llm-for-performance-and-scalability)                      |
