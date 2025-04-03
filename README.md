@@ -14,6 +14,7 @@
 | 7 Steps to Mastering Large Language Model Fine-tuning | [Link](https://www.kdnuggets.com/7-steps-to-mastering-large-language-model-fine-tuning)                      | [Code](https://github.com/rfeers/large-language-models/blob/main/7%20Steps%20to%20Fine-Tune%20LLMs.ipynb) |
 | The Right Way to Access Dictionaries in Python | [Link](https://www.kdnuggets.com/the-right-way-to-access-dictionaries-in-python)                      | [Code](https://github.com/rfeers/Twitter/blob/main/Python/right-way-access-dictionaries.ipynb) |
 | Converting JSONs to Pandas DataFrames | [Link](https://www.kdnuggets.com/converting-jsons-to-pandas-dataframes-parsing-them-the-right-way)                      | [Code](https://github.com/rfeers/Twitter/blob/main/Python/JSON_to_CSVs.ipynb) |
+| Understanding Time Series in Python | -                      | [Code](https://github.com/rfeers/My-Articles-Friendly-Links/blob/main/Python/Time_Series_Analysis_Python.ipynb) |
 
 
 ## **Without Code** 📚
