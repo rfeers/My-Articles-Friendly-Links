@@ -33,3 +33,19 @@
 | 7 Steps to Mastering Exploratory Data Analysis | [Link](https://www.kdnuggets.com/7-steps-to-mastering-exploratory-data-analysis)                      |
 | The Essential Guide to SQL’s Execution Order | [Link](https://www.kdnuggets.com/the-essential-guide-to-sql-execution-order)                      |
 | Large Arrays Efficiently with NumPy | [Link](https://www.statology.org/large-arrays-efficiently-with-numpy/)                      |
+
+# **DataCamp Articles** 📝
+| Title              | Article Link                     |
+|--------------------|--------------------------------|
+| The Complete Guide to DataWarehousing on GCP with BigQuery | [Link](https://www.datacamp.com/tutorial/gcp-bigquery-tutorial) |
+| The Complete Guide to File Storage on Azure with Blob & Files| [Link](https://www.datacamp.com/tutorial/guide-to-file-storage-on-azure-with-blob-and-files) |
+|Azure Interview Questions | [Link](https://www.datacamp.com/blog/azure-interview-questions) |
+| How to Learn Azure: A Beginner’s Guide to Microsoft’s Cloud Platform| [Link](https://www.statology.org/beginner-guide-time-series-analysis-pandas/) |
+|How to Learn Databricks: A Beginner’s Guide to the Unified Data Platform | [Link](https://www.datacamp.com/blog/how-to-learn-databricks) |
+| Fuzzy Logic in AI: Principles, Applications, and Python Implementation Guide | [Link](https://www.datacamp.com/tutorial/fuzzy-logic-in-ai) |
+| AI Project Cycle Explained: From Problem Scoping to Real-World Impact| [Link](https://www.datacamp.com/blog/ai-project-cycle) |
+| Kafka vs RabbitMQ | [Link](https://www.datacamp.com/blog/kafka-vs-rabbitmq) |
+| Kubernetes Architecture | [Link](https://www.datacamp.com/blog/kubernetes-architecture-explained) |
+| BigQuery Interview Questions | [Link](https://www.datacamp.com/blog/bigquery-interview-questions) |
+| An Introductory Guide to Fine-Tuning LLMs| [Link](https://www.datacamp.com/tutorial/fine-tuning-large-language-models) |
+| A Comprehensive Guide to Working with the Mistral Large Model| [Link](https://www.datacamp.com/tutorial/guide-to-working-with-the-mistral-large-model) |
