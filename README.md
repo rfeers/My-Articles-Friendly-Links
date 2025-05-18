@@ -32,3 +32,4 @@
 | Getting Started with LLMOps | [Link](https://www.kdnuggets.com/getting-started-with-llmops-the-secret-sauce-behind-seamless-interactions)                      |
 | 7 Steps to Mastering Exploratory Data Analysis | [Link](https://www.kdnuggets.com/7-steps-to-mastering-exploratory-data-analysis)                      |
 | The Essential Guide to SQL’s Execution Order | [Link](https://www.kdnuggets.com/the-essential-guide-to-sql-execution-order)                      |
+| Large Arrays Efficiently with NumPy | [Link](https://www.statology.org/large-arrays-efficiently-with-numpy/)                      |
