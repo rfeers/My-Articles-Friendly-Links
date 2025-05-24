@@ -33,6 +33,9 @@
 | 7 Steps to Mastering Exploratory Data Analysis | [Link](https://www.kdnuggets.com/7-steps-to-mastering-exploratory-data-analysis)                      |
 | The Essential Guide to SQL’s Execution Order | [Link](https://www.kdnuggets.com/the-essential-guide-to-sql-execution-order)                      |
 | Large Arrays Efficiently with NumPy | [Link](https://www.statology.org/large-arrays-efficiently-with-numpy/)                      |
+| Exploring The Role of Statistics in Data Science | [Link](https://www.statology.org/exploring-the-role-of-statistics-in-data-science/)                      |
+
+
 
 # **DataCamp Articles** 📝
 | Title              | Article Link                     |
