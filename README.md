@@ -15,6 +15,7 @@
 | The Right Way to Access Dictionaries in Python | [Link](https://www.kdnuggets.com/the-right-way-to-access-dictionaries-in-python)                      | [Code](https://github.com/rfeers/Twitter/blob/main/Python/right-way-access-dictionaries.ipynb) |
 | Converting JSONs to Pandas DataFrames | [Link](https://www.kdnuggets.com/converting-jsons-to-pandas-dataframes-parsing-them-the-right-way)                      | [Code](https://github.com/rfeers/Twitter/blob/main/Python/JSON_to_CSVs.ipynb) |
 | Understanding Time Series in Python | -                      | [Code](https://github.com/rfeers/My-Articles-Friendly-Links/blob/main/Python/Time_Series_Analysis_Python.ipynb) |
+| Integrating DuckDB & Python: An Analytics Guide | [Link](https://www.kdnuggets.com/integrating-duckdb-python-an-analytics-guide)                     | [Code](https://github.com/rfeers/My-Articles-Friendly-Links/blob/main/Python/DuckDB_and_Python.ipynb) |
 
 
 ## **Without Code** 📚
@@ -34,6 +35,7 @@
 | The Essential Guide to SQL’s Execution Order | [Link](https://www.kdnuggets.com/the-essential-guide-to-sql-execution-order)                      |
 | Large Arrays Efficiently with NumPy | [Link](https://www.statology.org/large-arrays-efficiently-with-numpy/)                      |
 | Exploring The Role of Statistics in Data Science | [Link](https://www.statology.org/exploring-the-role-of-statistics-in-data-science/)                      |
+| The Statistician’s Guide to Reliable Data Storage | [Link](https://www.statology.org/the-statisticians-guide-to-reliable-data-storage/)                      |
 
 
 
